@@ -1,0 +1,16 @@
+.divider{
+    background: linear-gradient(to bottom, rgba(231,240,245, 1) 0%, rgba(170, 221,235,1 100%));
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 2px;
+}
+
+.divider2{
+    background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.profile-picture{
+    border-radius: 50%;
+}
